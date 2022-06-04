@@ -1,12 +1,11 @@
 /*
  * ReadMe.txt
- * Ray Zeng(Tianrui) & Nick Luo(Haiyu)
+ * Contributor: Ray Zeng(Tianrui) & Nick Luo(Haiyu)
  * All group members were present and contributing during all work on this project.
  * We have neither received nor given any unauthorized aid in this assignment.
  */
 Name: Tianrui Zeng and Nick Luo
 We added a new file called TestClassiferMyDataSet.java to run on our own dataset train-myDataSet.txt and test-myDataSet.txt
-Known bugs? It is "88 14" and "50 50" printed before the tree. It is not actually a bug? It existed in the code given by Professor Christman. Other than that, there are no other debugging statements printed.
 
 Part2a
 
